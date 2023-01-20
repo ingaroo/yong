@@ -8,5 +8,8 @@ int main()
     num2 = 5;
 
     printf("%d + %d = %d\n", num1, num2, num1+num2);
+    printf("%d - %d = %d\n", num1, num2, num1+num2);
+    printf("%d * %d = %d\n", num1, num2, num1+num2);
+    printf("%d / %d = %d\n", num1, num2, num1+num2);
     return 0;
 }
