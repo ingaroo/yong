@@ -1,0 +1,8 @@
+@RestController
+public class TestController {
+
+    @GetMapping("/")
+    string index() {
+        return "First Commit";
+    }
+}
